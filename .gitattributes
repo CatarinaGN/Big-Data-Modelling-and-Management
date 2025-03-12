@@ -1,0 +1,2 @@
+Neo4JHWData/* filter=lfs diff=lfs merge=lfs -text
+Neo4JPlugins/* filter=lfs diff=lfs merge=lfs -text
